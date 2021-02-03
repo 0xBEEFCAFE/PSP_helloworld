@@ -1,5 +1,5 @@
 // Hello World
-/* By Kyle 9-4-05*/
+/* 9-4-05 */
 
 #include <pspkernel.h>
 #include <pspdebug.h>

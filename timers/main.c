@@ -1,5 +1,5 @@
 // Timers And Time
-/* By Kyle 9-5-05*/
+/* 9-5-05 */
 
 #include <pspkernel.h>
 #include <pspdebug.h>
